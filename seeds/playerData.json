@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Nikola Jokic",
+    "ppg": 25,
+    "assists": 10,
+    "rebounds": 12,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 1,
+    "cost": 5000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "ppg": 31,
+    "assists": 5,
+    "rebounds": 12,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 2,
+    "cost": 4000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+  },
+  {
+    "name": "Luka Doncic",
+    "ppg": 32,
+    "assists": 8,
+    "rebounds": 9,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 3,
+    "cost": 4000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png"
+  },
+  {
+    "name": "Jayson Tatum",
+    "ppg": 30,
+    "assists": 5,
+    "rebounds": 9,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 4,
+    "cost": 3000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+  },
+  {
+    "name": "Joel Embiid",
+    "ppg": 33,
+    "assists": 4,
+    "rebounds": 10,
+    "steals": 1,
+    "blocks": 2,
+    "ranking": 5,
+    "cost": 3000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png"
+  },
+  {
+    "name": "Kevin Durant",
+    "ppg": 29,
+    "assists": 5,
+    "rebounds": 7,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 6,
+    "cost": 2000000,
+    "img": "https://a.espncdn.com/i/headshots/nba/players/full/3202.png"
+
+  },
+  {
+    "name": "Stephen Curry",
+    "ppg": 29,
+    "assists": 6,
+    "rebounds": 6,
+    "steals": 1,
+    "blocks": 0,
+    "ranking": 7,
+    "cost": 2000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png"
+  },
+  {
+    "name": "Lebron James",
+    "ppg": 29,
+    "assists": 7,
+    "rebounds": 8,
+    "steals": 1,
+    "blocks": 1,
+    "ranking": 8,
+    "cost": 2000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png"
+  },
+  {
+    "name": "Ja Morant",
+    "ppg": 26,
+    "assists": 7,
+    "rebounds": 5,
+    "steals": 1,
+    "blocks": 0,
+    "ranking": 9,
+    "cost": 1000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png"
+  },
+  {
+    "name": "Damian Lillard",
+    "ppg": 32,
+    "assists": 7,
+    "rebounds": 5,
+    "steals": 1,
+    "blocks": 0,
+    "ranking": 10,
+    "cost": 1000000,
+    "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png"  
+  }
+ 
+]

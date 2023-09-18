@@ -1,0 +1,35 @@
+<div class="bg-white py-24 sm:py-32">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-2xl lg:mx-0">
+      <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Current fantasy teams</h2>
+      <p class="mt-2 text-lg leading-8 text-gray-600"><a href="/login">Login</a> to create your own fantasy team!</p>
+    </div>
+    {{#each teams as |team|}}
+    <div
+      class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+      <article class="flex max-w-xl flex-col items-start justify-between">
+        <div class="flex items-center gap-x-4 text-xs">
+          <h1 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+            {{team.teamName}}
+          </h1>
+        </div>
+        <div class="group relative">
+          <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
+
+          </p>
+          {{#each team.players as |player|}}
+
+          <p>{{player.name}}</p>
+          {{/each}}
+        </div>
+        <div class="relative mt-8 flex items-center gap-x-4">
+          {{!-- --}}
+          <div class="text-sm leading-6">
+            {{!-- EXTRA INFO HERE IF NEEDED --}}
+          </div>
+        </div>
+      </article>
+    </div>
+    {{/each}}
+  </div>
+</div>
